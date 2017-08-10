@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+#top{width:100%; height:60px; background-color:#CCC;}
+#upperPart{ width:100%; height:50px; background-color:#CCC;}
+#bottom{ width:100%; height:800px;}
+#B_lift{width:20%; height:800px; background-color:#36C;}
+#B_right{ position:relative;left:20%;bottom:800px; width:80%; height:800px; background-color:#0FF;}
+#yg_show{position: relative;top:200px;width:100%;height:60%;}
+#num_div{width: 150px;height: 170px;border:#CCC solid 1px;float:left;margin: 40px;position: relative;left:40px;}
+#num_title{width:150px;height:20px; background-color:#0FF;}
+#sousuo_buttom{width:400px;height:40px;position: relative;left:300px;top:100px; }
+#sousuo_buttom a{text-decoration: none;}
